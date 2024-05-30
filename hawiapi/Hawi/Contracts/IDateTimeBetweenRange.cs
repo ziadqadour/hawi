@@ -4,4 +4,5 @@
     {
         List<DateTime> GetDateTimeOccurrences(string dayName, DateTime startDateTime, DateTime endDateTime);
     }
+    
 }
